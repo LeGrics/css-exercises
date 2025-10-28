@@ -1,4 +1,21 @@
 /* Add CSS Styling */
-.red {
-    background-color: rgb(255, 0, 0);
+.red,
+.cool {
+    background-color: rgb(255, 0, 0, 0.2);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: rgb(0, 0, 250);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(0, 250, 0, 0.2);
+    font-size: 24px;
+    font-weight: bold;
 }
